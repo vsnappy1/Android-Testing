@@ -21,7 +21,6 @@ import java.time.LocalDate
 import java.time.Month
 
 @OptIn(ExperimentalCoroutinesApi::class)
-@RunWith(JUnit4::class)
 class JobSearchViewModelTest {
 
     @Mock
